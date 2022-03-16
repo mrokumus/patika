@@ -1,1 +1,13 @@
 
+{
+    "name": "mrokumus/patika",
+    "authors": [
+        {
+            "name": "Muhammed Rasit OKUMUS",
+            "email": "okumusmr@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.0.20"
+    }
+}
